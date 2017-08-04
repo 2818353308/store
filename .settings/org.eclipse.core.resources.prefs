@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/jsp/head.jsp=UTF-8
+encoding//src/com/liu/utils/DataSourceUtils.java=UTF-8
+encoding//src/com/liu/utils/MailUtils.java=UTF-8
+encoding//src/com/liu/utils/UUIDUtils.java=UTF-8
+encoding//src/com/liu/web/filter/EncodingFilter.java=UTF-8
